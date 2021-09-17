@@ -12,6 +12,6 @@ Solution : This analyze is done by using R programming and it tools.
 
 Counting the number of all the different words in a text file that contains text and pressing it on the screen from large to small using the linked list.
 
-[Project 3 :  "Arduino- money machine"](https://github.com/ErvisaS/Arduino-project).
+[Project 3 :  "Arduino- change machine"](https://github.com/ErvisaS/Arduino-project).
 
 An automatic car wash is expected to operate with a minimum number of change. This project is performed by simulating the Arduino card on the Tinkercad virtual platform.
