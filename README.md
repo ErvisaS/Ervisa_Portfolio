@@ -5,7 +5,7 @@ This is a Capstone project for Google Data Analytics Professional Certificate co
 
 The Company : Cyclictic, a bike-sharing programe.
 
-The Task: Analyze the dataset sourced from Motivate International inc's to provide insights on how do casual riders differ from annual members for the marketing team aiming to convert casual riders into annual members.
+The Task : Analyze the dataset sourced from Motivate International inc's to provide insights on how do casual riders differ from annual members for the marketing team aiming to convert casual riders into annual members.
 
 Solution : This analyze is done by using R programming and it tools.
 
@@ -29,4 +29,4 @@ Design a game that reaches the output before the player finishes his points in t
 
 [Project 5 : " Java-MySql -> A Desktop Music Listening App"](https://github.com/ErvisaS/Java-Mysql--a-desktop-music-listening-app).
 
-Develop the database of a music listening app for the desktop. We did this project using Mysql for the database and Java for the interface.
+Develop the database of a music listening app for the desktop by using Mysql for the database and Java for the interface.
