@@ -15,3 +15,7 @@ Counting the number of all the different words in a text file that contains text
 [Project 3 :  "Arduino- change machine"](https://github.com/ErvisaS/Arduino-project).
 
 An automatic car wash is expected to operate with a minimum number of change. This project is performed by simulating the Arduino card on the Tinkercad virtual platform.
+
+[Project 4 :  "Maze Game-Java"](https://github.com/ErvisaS/Maze-Game-Java-).
+
+Design a game that reaches the output before the player finishes his points in the Maze using the Dijkstra's shortest path algorithm.
