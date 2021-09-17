@@ -20,7 +20,7 @@ Counting the number of all the different words in a text file that contains text
 
 An automatic car wash is expected to operate with a minimum number of change. This project is performed by simulating the Arduino card on the Tinkercad virtual platform.
 
-![](/Ekran%20Görüntüsü%20(89).png)
+![](/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(89).png)
 
 [Project 4 :  "Java GUI- Maze Game"](https://github.com/ErvisaS/Maze-Game-Java-).
 
