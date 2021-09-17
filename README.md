@@ -18,7 +18,7 @@ An automatic car wash is expected to operate with a minimum number of change. Th
 
 !.[](https://github.com/ErvisaS/Arduino-project/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(89).png)
 
-[Project 4 :  "Maze Game-Java"](https://github.com/ErvisaS/Maze-Game-Java-).
+[Project 4 :  "Java GUI- Maze Game"](https://github.com/ErvisaS/Maze-Game-Java-).
 
 Design a game that reaches the output before the player finishes his points in the Maze using the Dijkstra's shortest path algorithm.
 
