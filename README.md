@@ -24,3 +24,7 @@ An automatic car wash is expected to operate with a minimum number of change. Th
 Design a game that reaches the output before the player finishes his points in the Maze using the Dijkstra's shortest path algorithm.
 
 !.[](https://github.com/ErvisaS/Maze-Game-Java-/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(35).png)
+
+.[Project 5 : " Java-MySql -> A Desktop Music Listening App"].(https://github.com/ErvisaS/Java-Mysql--a-desktop-music-listening-app).
+
+Develop the database of a music listening app for the desktop. We did this project using Mysql for the database and Java for the interface.
