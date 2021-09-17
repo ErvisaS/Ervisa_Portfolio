@@ -6,7 +6,7 @@ The Company : Cyclictic, a bike-sharing programe.
 The Task: Analyze the dataset sourced from Motivate International inc's to provide insights on how do casual riders differ from annual members for the marketing team aiming to convert casual riders into annual members.
 Solution : This analyze is done by using R programming and it tools.
 
-!.[](https://github.com/ErvisaS/Cyclictic-case-study/blob/main/000003.png)
+![](https://github.com/ErvisaS/Cyclictic-case-study/blob/main/000003.png)
 
 
 [Project 2 :  "C-programming(linked list)"](https://github.com/ErvisaS/C-programming).
@@ -17,13 +17,13 @@ Counting the number of all the different words in a text file that contains text
 
 An automatic car wash is expected to operate with a minimum number of change. This project is performed by simulating the Arduino card on the Tinkercad virtual platform.
 
-!.[](https://github.com/ErvisaS/Arduino-project/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(89).png)
+![](https://github.com/ErvisaS/Arduino-project/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(89).png)
 
 [Project 4 :  "Java GUI- Maze Game"](https://github.com/ErvisaS/Maze-Game-Java-).
 
 Design a game that reaches the output before the player finishes his points in the Maze using the Dijkstra's shortest path algorithm.
 
-!.[](https://github.com/ErvisaS/Maze-Game-Java-/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(35).png)
+![](https://github.com/ErvisaS/Maze-Game-Java-/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(35).png)
 
 [Project 5 : " Java-MySql -> A Desktop Music Listening App"](https://github.com/ErvisaS/Java-Mysql--a-desktop-music-listening-app).
 
