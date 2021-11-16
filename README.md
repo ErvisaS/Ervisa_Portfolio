@@ -32,4 +32,4 @@ Develop the database of a music listening app for the desktop by using Mysql for
 [Project 6 : " JavaScript-MongoDB Atlas  -> A Desktop Cargo Delivery Management System App"](https://github.com/ErvisaS/kargo)
 
 Develep a smart cargo delivery management system by calculating the shortest path between delivery addresses held in a cloud database using the travelling salesman problem algorithm. 
-![](/01.png)
+
