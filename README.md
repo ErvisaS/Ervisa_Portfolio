@@ -27,9 +27,14 @@ Design a game that reaches the output before the player finishes his points in t
 
 [Project 5 : " Java-MySql -> A Desktop Music Listening App"](https://github.com/ErvisaS/Java-Mysql--a-desktop-music-listening-app).
 
-Develop the database of a music listening app for the desktop by using Mysql for the database and Java for the interface.
+Develop  a music listening app for the desktop by using Mysql for the database and Java for the interface.
 
-[Project 6 : " JavaScript-MongoDB Atlas  -> A Desktop Cargo Delivery Management System App"](https://github.com/ErvisaS/kargo)
+[Project 6 : " JavaScript-MongoDB Atlas  -> A Cargo Delivery Management System Desktop App"](https://github.com/ErvisaS/kargo)
 
-Develep a smart cargo delivery management system by calculating the shortest path between delivery addresses held in a cloud database using the travelling salesman problem algorithm. 
+Develop a smart cargo delivery management system by calculating the shortest path between delivery addresses held in a cloud database using the travelling salesman problem algorithm. 
 
+[Project 7 : " C#  -> A Real Estate Management System Desktop App"](https://github.com/ErvisaS/sudoku)
+
+
+
+[Project 8 : " C#  -> A Real Estate Management System Desktop App"](https://github.com/ErvisaS/realestatemanagementsystem)
