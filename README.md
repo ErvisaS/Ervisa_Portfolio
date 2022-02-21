@@ -35,6 +35,10 @@ Develop a smart cargo delivery management system by calculating the shortest pat
 
 [Project 7 : " Python -> Samurai Sudoku Multithreading Solver"](https://github.com/ErvisaS/sudoku)
 
-
+Develop a samurai sudoku solver with backtracking algorithm.
 
 [Project 8 : " C#  -> A Real Estate Management System Desktop App"](https://github.com/ErvisaS/realestatemanagementsystem)
+
+The aim of the project is to prepare a real estate tracking system. When the user enters the interface, they should be able to easily add, update, delete or query according to different types of real estate.
+In the same way, customer registration should be made and customer portfolio should be reached. Reports need to be accessed through the system through the desired real estate.
+
