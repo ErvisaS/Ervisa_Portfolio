@@ -33,7 +33,7 @@ Develop  a music listening app for the desktop by using Mysql for the database a
 
 Develop a smart cargo delivery management system by calculating the shortest path between delivery addresses held in a cloud database using the travelling salesman problem algorithm. 
 
-[Project 7 : " C#  -> A Real Estate Management System Desktop App"](https://github.com/ErvisaS/sudoku)
+[Project 7 : " Python -> Samurai Sudoku Multithreading Solver"](https://github.com/ErvisaS/sudoku)
 
 
 
